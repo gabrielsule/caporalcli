@@ -30,3 +30,5 @@ prog.parse(process.argv);
 ```bash
 node index.js
 ```
+
+### [Buy me a coffee ☕](https://www.buymeacoffee.com/HvQATbz)
